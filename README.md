@@ -3,7 +3,7 @@
 <h2 align="left"> Descrição do projeto </h2>
 
 API REST para expor conteúdo, utilizando ferramentas profissionais como o Spring FrameWork e um banco de dados NoSQL. Esse projeto comunica com o projeto 
-API-figurinha e permite fazer o GET das figurinhas já existentes no banco de dados e o POST para adicionar mais figurinhas.
+API-figurinha, CRUD completo que permite fazer o Create, Read, Update e Delete das figurinhas no banco de dados .
 
 <h2 align="left"> Técnicas e Tecnologias utilizadas </h2>
 
